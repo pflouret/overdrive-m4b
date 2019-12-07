@@ -1,0 +1,25 @@
+PATH
+  remote: .
+  specs:
+    overdrive-m4b (0.1.0)
+      id3tag (~> 0.12.1)
+      nokogiri (~> 1.10.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    id3tag (0.12.1)
+    mini_portile2 (2.4.0)
+    nokogiri (1.10.7)
+      mini_portile2 (~> 2.4.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  id3tag (~> 0.12.1)
+  nokogiri (~> 1.10.7)
+  overdrive-m4b!
+
+BUNDLED WITH
+   1.17.3
