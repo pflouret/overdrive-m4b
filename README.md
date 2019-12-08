@@ -20,6 +20,9 @@ brew install overdrive-m4b --without-fdk-aac
 
 - https://github.com/chbrown/overdrive Bash script to download overdrive books.
 - https://bendodson.com/projects/itunes-artwork-finder Better artwork than the one supplied by overdrive. Put the downloaded 600x600bb.jpg in the same folder as the mp3s.
+- User-agent switchers (to get around the OS X Catalina block)
+    - https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg?hl=en-US
+    - https://addons.mozilla.org/en-US/firefox/addon/user-agent-switcher-revived/
 
 ## Usage
 
