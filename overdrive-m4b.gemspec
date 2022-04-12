@@ -16,6 +16,6 @@ Gem::Specification.new do |spec|
     'version',
   ]
 
-  spec.add_runtime_dependency 'nokogiri', ['~> 1.10.7']
+  spec.add_runtime_dependency 'nokogiri', '>= 1.10.7', '< 1.14.0'
   spec.add_runtime_dependency 'id3tag', ['~> 0.12.1']
 end
