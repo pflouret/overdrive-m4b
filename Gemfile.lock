@@ -10,7 +10,7 @@ GEM
   specs:
     id3tag (0.12.1)
     mini_portile2 (2.8.1)
-    nokogiri (1.14.2)
+    nokogiri (1.14.3)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     racc (1.6.2)
@@ -20,7 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   id3tag (~> 0.12.1)
-  nokogiri (~> 1.14.2)
+  nokogiri (~> 1.14.3)
   overdrive-m4b!
 
 BUNDLED WITH
